@@ -1,3 +1,5 @@
+Site: <a href="https://codecrashstudios.github.io/WHIndex/">https://codecrashstudios.github.io/WHIndex/</a>
+
 # Waffle House Index
 This is just a stupid project to try and get information about every Waffle House and eventally create a "Waffle House Index"
 
